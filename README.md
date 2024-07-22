@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning on fulstalk web development
 - 💞️ I’m looking to collaborate on backend sector
-- 📫 How to reach me on instagram @kobe_kingk 
+- 📫 You can reach me on instagram @kobe_kingk 
 
 <!---
 yolo-nic0/yolo-nic0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
